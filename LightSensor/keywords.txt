@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LightSensor			KEYWORD1	LightSensor
+SoftwareSinglebus	KEYWORD1	SoftwareSinglebus
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+start					KEYWORD2
+stop					KEYWORD2
+modifyAddr				KEYWORD2
+readLeftBrightness		KEYWORD2
+readRightBrightness		KEYWORD2
+readBrightness			KEYWORD2
+setCB					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
